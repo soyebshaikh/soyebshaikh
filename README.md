@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-https://github-readme-streak-stats.herokuapp.com/?user=your-soyebshaikh
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-soyebshaikh&theme=dark&background=000000)](https://git.io/streak-stats)
 [![soyebshaikh github stats](https://github-readme-stats.vercel.app/api?username=soyebshaikh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyebshaikh)](https://github.com/anuraghazra/github-readme-stats) -->
