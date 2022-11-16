@@ -7,7 +7,7 @@
 </div>
 
 
-
+<hr>
 
 - 👋 Hi, I’m @soyebshaikh
 - 👀 I’m interested in software-Development
