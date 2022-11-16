@@ -19,6 +19,8 @@
 soyebshaikh/soyebshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
 ---
 [![soyebshaikh github stats](https://github-readme-stats.vercel.app/api?username=soyebshaikh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyebshaikh)](https://github.com/anuraghazra/github-readme-stats) -->
